@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 6 de July de 2023 09:38
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.5
+WORDPRESS:	6.2.2
+PHP INFO:	8.0.28 | SAPI: apache2handler
+SERVER:		Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.0.28 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 52MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: MiguelZhunio_e9116b2aba2e30606638_20230706093834_database.sql
+SQL FILE SIZE: 3.57MB (3748255)
+SQL FILE TIME: 2023-07-06 09:38:53
+SQL RUNTIME: 11.32 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/wordpress
+ARCHIVE FILE: MiguelZhunio_e9116b2aba2e30606638_20230706093834_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	120.12MB
+STATS:	Dirs 897 | Files 5,485
+SQL ADDED: MiguelZhunio_e9116b2aba2e30606638_20230706093834_database.sql
+ZipArchive Object
+(
+    [lastId] => 6381
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6382
+    [filename] => C:\xampp\htdocs\wordpress\wp-content\backups-dup-lite\tmp\MiguelZhunio_e9116b2aba2e30606638_20230706093834_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 6381
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 46.06MB
+ARCHIVE RUNTIME: 8.45 sec.
+MEMORY STACK: 54MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 3.57MB
+INSTALLER FILE: 73.47KB
+ARCHIVE FILE: 47.92MB 
+RECUENTO ARCHIVOS/DIRECTORIOS ESPERADOS: 6,382
+RECUENTO ARCHIVOS/DIRECTORIOS ACTUALES: 6,381
+PRUEBA DE CONSISTENCIA DEL ARCHIVO: Superado
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 20.83 sec.
+PEAK PHP MEMORY USED: 56MB
+DONE PROCESSING => MiguelZhunio 6 de July de 2023 09:39
+
